@@ -1,0 +1,17 @@
+C:\Users\KeNJe\documents\visual studio 2010\Projects\PlanetM\PlanetM-Ops\bin\Release\PlanetM-Ops.dll
+C:\Users\KeNJe\documents\visual studio 2010\Projects\PlanetM\PlanetM-Ops\bin\Release\PlanetM-Ops.pdb
+C:\Users\KeNJe\documents\visual studio 2010\Projects\PlanetM\PlanetM-Ops\bin\Release\AbstractLayer.dll
+C:\Users\KeNJe\documents\visual studio 2010\Projects\PlanetM\PlanetM-Ops\bin\Release\DBAccessLayer.dll
+C:\Users\KeNJe\documents\visual studio 2010\Projects\PlanetM\PlanetM-Ops\bin\Release\Gios Pdf.NET.dll
+C:\Users\KeNJe\documents\visual studio 2010\Projects\PlanetM\PlanetM-Ops\bin\Release\PlanetM-Utility.dll
+C:\Users\KeNJe\documents\visual studio 2010\Projects\PlanetM\PlanetM-Ops\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\KeNJe\documents\visual studio 2010\Projects\PlanetM\PlanetM-Ops\bin\Release\AbstractLayer.pdb
+C:\Users\KeNJe\documents\visual studio 2010\Projects\PlanetM\PlanetM-Ops\bin\Release\DBAccessLayer.pdb
+C:\Users\KeNJe\documents\visual studio 2010\Projects\PlanetM\PlanetM-Ops\bin\Release\PlanetM-Utility.pdb
+C:\Users\KeNJe\documents\visual studio 2010\Projects\PlanetM\PlanetM-Ops\obj\Release\ResolveAssemblyReference.cache
+C:\Users\KeNJe\documents\visual studio 2010\Projects\PlanetM\PlanetM-Ops\obj\Release\PlanetM_Ops.ScanFolderOptions.resources
+C:\Users\KeNJe\documents\visual studio 2010\Projects\PlanetM\PlanetM-Ops\obj\Release\PlanetM_Ops.PrintOptions.resources
+C:\Users\KeNJe\documents\visual studio 2010\Projects\PlanetM\PlanetM-Ops\obj\Release\GenerateResource.read.1.tlog
+C:\Users\KeNJe\documents\visual studio 2010\Projects\PlanetM\PlanetM-Ops\obj\Release\GenerateResource.write.1.tlog
+C:\Users\KeNJe\documents\visual studio 2010\Projects\PlanetM\PlanetM-Ops\obj\Release\PlanetM-Ops.dll
+C:\Users\KeNJe\documents\visual studio 2010\Projects\PlanetM\PlanetM-Ops\obj\Release\PlanetM-Ops.pdb

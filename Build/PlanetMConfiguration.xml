@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+  <Languages>
+    <key>Marathi</key>
+    <key>Hindi</key>
+    <key>English</key>
+    <key>Telugu</key>
+    <key>Tamil</key>
+    <key>Foreign Language</key>
+    <key>Indian Language</key>
+  </Languages>
+  <Genres>
+    <key>Action</key>
+    <key>Adventure</key>
+    <key>Animation</key>
+    <key>Biography</key>
+    <key>Comedy</key>
+    <key>Crime</key>
+    <key>Documentary</key>
+    <key>Drama</key>
+    <key>Family</key>
+    <key>Fantasy</key>
+    <key>Film-Noir</key>
+    <key>History</key>
+    <key>Horror</key>
+    <key>Music</key>
+    <key>Musical</key>
+    <key>Mystery</key>
+    <key>Romance</key>
+    <key>Sci-Fi</key>
+    <key>Short</key>
+    <key>Sport</key>
+    <key>Thriller</key>
+    <key>War</key>
+    <key>Western</key>
+  </Genres>
+  <VideoFilesPattern>
+    <key>*.avi</key>
+    <key>*.mp4</key>
+    <key>*.mov</key>
+    <key>*.mkv</key>
+    <key>*.mpeg</key>
+    <key>*.mpg</key>
+    <key>*.DAT</key>
+    <key>*.vob</key>
+    <key>*.FLV</key>
+  </VideoFilesPattern>
+  
+  <LocationExternalHardDrive>
+    <key>K:\</key>
+  </LocationExternalHardDrive>
+  <LocationLaptop>
+    <key>F:\</key>
+    <key>D:\</key>
+  </LocationLaptop>
+  <LocationDVD>
+    <key>G:\</key>
+  </LocationDVD>
+  <LocationPC>
+    <key>KENJE09</key>
+  </LocationPC>
+  
+  <CollectionGroupWords>
+    <key>Collection</key>
+    <key>Series</key>
+    <key>Quadrilogy</key>
+    <key>Trilogy</key>
+  </CollectionGroupWords>
+  <MPAARatings>
+    <key>G</key>
+    <key>PG</key>
+    <key>PG_13</key>
+    <key>R</key>
+    <key>TV_PG</key>
+    <key>TV_G</key>
+    <key>TV_14</key>
+    <key>NC_17</key>
+    <key>UNRATED</key>
+    <key>X</key>
+  </MPAARatings>
+  <DashBoardColumns>
+    <key>Image~30</key>
+    <key>MovieName~Movie Name~240</key>
+    <key>Language~Language~100</key>
+    <key>Year~Year~40</key>
+    <key>Seen~Seen~45</key>
+    <key>Size~Size (MB)~110</key>
+    <key>IMDBRating~IMDB Rating~55</key>
+    <key>MyRating~My Rating~55</key>
+    <key>Genre~Genre~170</key>
+  </DashBoardColumns>
+  <SearchColumns>
+    <key>Image~30</key>
+    <key>MovieName~Movie Name~270</key>
+    <key>Language~Language~100</key>
+    <key>Year~Year~40</key>
+    <key>Seen~Seen~50</key>
+    <key>Size~Size (MB)~130</key>
+    <key>IMDBRating~IMDB Rating~70</key>
+    <key>MyRating~My Rating~70</key>
+    <key>Genre~Genre~175</key>
+  </SearchColumns>
+  <MiniIMDBColumns>
+    <key>Image~30</key>
+    <key>ImdbID~ID~60</key>
+    <key>Title~Movie Title~300</key>
+    <key>Language~Language~100</key>
+    <key>Year~Year~40</key>
+    <key>Rating~Rating~60</key>
+    <key>Genre~Genre~180</key>
+    <key>MpaaRating~MPAA Rating~80</key>
+    <key>ReleaseDate~Release Date~90</key>
+    <key>Awards~Awards~65</key>
+    <key>Nominations~Nomin.s~65</key>
+    <key>Oscars~Oscars~65</key>
+  </MiniIMDBColumns>
+  <SearchIMDBColumns>
+    <key>Image~30</key>
+    <key>ImdbID~ID~60</key>
+    <key>Title~Movie Title~250</key>
+    <key>Language~Language~100</key>
+    <key>Year~Year~40</key>
+    <key>Rating~Rating~60</key>
+    <key>Genre~Genre~180</key>
+    <key>MpaaRating~MPAA Rating~70</key>
+    <key>Awards~Awards~60</key>
+    <key>Nominations~Nomin.s~65</key>
+    <key>Top250~Top 250~55</key>
+    <key>Oscars~Oscars~55</key>
+  </SearchIMDBColumns>
+</Configuration>

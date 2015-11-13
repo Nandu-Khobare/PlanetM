@@ -1,0 +1,9 @@
+C:\Users\KeNJe\documents\visual studio 2010\Projects\PlanetM\DBAccessLayer\bin\Release\DBAccessLayer.dll
+C:\Users\KeNJe\documents\visual studio 2010\Projects\PlanetM\DBAccessLayer\bin\Release\DBAccessLayer.pdb
+C:\Users\KeNJe\documents\visual studio 2010\Projects\PlanetM\DBAccessLayer\bin\Release\AbstractLayer.dll
+C:\Users\KeNJe\documents\visual studio 2010\Projects\PlanetM\DBAccessLayer\bin\Release\PlanetM-Utility.dll
+C:\Users\KeNJe\documents\visual studio 2010\Projects\PlanetM\DBAccessLayer\bin\Release\AbstractLayer.pdb
+C:\Users\KeNJe\documents\visual studio 2010\Projects\PlanetM\DBAccessLayer\bin\Release\PlanetM-Utility.pdb
+C:\Users\KeNJe\documents\visual studio 2010\Projects\PlanetM\DBAccessLayer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\KeNJe\documents\visual studio 2010\Projects\PlanetM\DBAccessLayer\obj\Release\DBAccessLayer.dll
+C:\Users\KeNJe\documents\visual studio 2010\Projects\PlanetM\DBAccessLayer\obj\Release\DBAccessLayer.pdb
